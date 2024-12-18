@@ -2,7 +2,7 @@
 
 # Hello, I'm Madhu Chavali 👋
 
-I'm passionate about healthcare, clinical, and bioinformatic data analysis. I enjoy working with diverse data types and tools.
+I have a strong interest in analyzing healthcare/clinical/biological datasets to uncover valuable insights and contribute to the advancement of drug development
 
 ## 🛠️ Tools & Technologies:
 - **Programming:** Python, Linux, SAS, R
