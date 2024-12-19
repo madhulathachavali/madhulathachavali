@@ -9,6 +9,7 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 
 ## 📈 GitHub Projects
 - [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
+- [Predicting Drug Prescription Based on Health Metrics](https://github.com/madhulathachavali/Drug-prescription-prediction)
 - [Vaccine Preventable Diseases Trends in California 2024](https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year)
 - [Migraine Attack Data Analysis](https://github.com/madhulathachavali/Migraine-Attack-Data-Analyses-using-SAS)
 - [Clinical Data Analysis](https://github.com/madhulathachavali/Clinical-lab-data-analysis-using-SAS)
