@@ -4,7 +4,6 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 
 ## 🛠️ Tools & Technologies:
 - **Programming:** Python, Linux, SAS, R
-- **Bioinformatics Tools:** Biopython, Bioconductor, SAMtools, DESeq2, edgeR, GATK, Nextflow
 - **Visualization:** Matplotlib, Seaborn, Plotly, UMAP, SciPy, Volcano Plot using ggplot2 and Heatmap.2 in R
 
 ## 📈 GitHub Projects
