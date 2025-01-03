@@ -3,7 +3,7 @@
 Interested in analyzing healthcare, clinical, and biological data to uncover meaningful insights.
 
 ## 🛠️ Tools & Technologies:
-- **Programming:** Python, Linux, SAS, R
+- **Programming:** Python, Linux
 - **Visualization:** Matplotlib, Seaborn, Plotly, UMAP, SciPy, Volcano Plot using ggplot2 and Heatmap.2 in R
 
 ## 📈 GitHub Projects
