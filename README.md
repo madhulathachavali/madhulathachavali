@@ -4,7 +4,7 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 
 ## 🛠️ Tools & Technologies:
 - **Programming:** Python, Linux, R
-- **Visualization:** Matplotlib, Seaborn, Plotly, UMAP, SciPy, Volcano Plot using ggplot2 and Heatmap.2 in R
+- **Visualization:** Matplotlib, Seaborn, Plotly, Scanpy, UMAP, SciPy, Volcano Plot 
 
 ## 📈 GitHub Projects
 - [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
