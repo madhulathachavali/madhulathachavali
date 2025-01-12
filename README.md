@@ -7,6 +7,7 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 - **Visualization:** Matplotlib, Seaborn, Plotly, Scanpy, UMAP, SciPy, Volcano Plot 
 
 ## 📈 GitHub Projects
+- [Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States](https://github.com/madhulathachavali/Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States)
 - [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
 - [Pharmacodynamic Analysis of Dose-Response Using the Emax Model](https://github.com/madhulathachavali/Pharmacodynamic-Analysis-of-Dose-Response-Using-the-Emax-Model)
 - [Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features](https://github.com/madhulathachavali/Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features)
