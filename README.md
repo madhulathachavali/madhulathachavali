@@ -3,7 +3,7 @@
 Interested in analyzing healthcare, clinical, and biological data to uncover meaningful insights.
 
 ## 🛠️ Tools & Technologies:
-- **Programming:** Python, Linux, R
+- **Programming:** Python, Linux
 - **Visualization:** Matplotlib, Seaborn, UMAP
 - **Bioinformatics:** DESeq2, edgeR, limma, clusterProfiler, ggplot2 (R); GSEAPy, AnnData, Biopython, PyEnrichment, Scanpy (Python); SAMtools, BWA, BEDTools (Command Line)
 
