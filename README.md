@@ -8,7 +8,7 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 - **Bioinformatics:** Nextflow, DESeq2, edgeR, limma, ggplot2 (R); GSEAPy, AnnData, Biopython, PyEnrichment, Scanpy (Python); SAMtools, BWA, BEDTools (Command Line)
 
 ## 📈 GitHub Projects
-- [E.coli Variant Analysis](https://github.com/madhulathachavali/E.coli-Genomic-Variant-Analysis)
+- [E.coli Variant Analysis using Nextflow](https://github.com/madhulathachavali/E.coli-Genomic-Variant-Analysis)
 - [Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States](https://github.com/madhulathachavali/Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States)
 - [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
 - [Pharmacodynamic Analysis of Dose-Response Using the Emax Model](https://github.com/madhulathachavali/Pharmacodynamic-Analysis-of-Dose-Response-Using-the-Emax-Model)
