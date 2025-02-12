@@ -5,7 +5,7 @@ Interested in analyzing healthcare, clinical, and biological data to uncover mea
 ## 🛠️ Tools & Technologies:
 - **Programming:** Python, Linux
 - **Visualization:** Matplotlib, Seaborn, UMAP
-- **Bioinformatics:** DESeq2, edgeR, limma, clusterProfiler, ggplot2 (R); GSEAPy, AnnData, Biopython, PyEnrichment, Scanpy (Python); SAMtools, BWA, BEDTools (Command Line)
+- **Bioinformatics:** Nextflow, DESeq2, edgeR, limma, ggplot2 (R); GSEAPy, AnnData, Biopython, PyEnrichment, Scanpy (Python); SAMtools, BWA, BEDTools (Command Line)
 
 ## 📈 GitHub Projects
 - [Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States](https://github.com/madhulathachavali/Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States)
