@@ -2,10 +2,9 @@
 
 Interested in analyzing healthcare, clinical, and biological data to uncover meaningful insights.
 
-## 🛠️ Tools & Technologies:
-- **Programming:** Python, Linux
-- **Visualization:** Matplotlib, Seaborn, UMAP
-- **Bioinformatics:** Nextflow, DESeq2, edgeR, limma, ggplot2 (R); GSEAPy, AnnData, Biopython, PyEnrichment, Scanpy (Python); SAMtools, BWA, BEDTools (Command Line)
+- **Tools**: SQL, BigQuery, PostgreSQL, Python, Linux, Tableau
+- **Clinical Data**: **MIMIC (electronic health record database)** data mining and analysis 
+- **Bioinformatics:** Nextflow, Scanpy (Python) SAMtools, BWA, BEDTools (Command Line)
 
 ## 📈 GitHub Projects
 - [E.coli Variant Analysis using Nextflow](https://github.com/madhulathachavali/E.coli-Genomic-Variant-Analysis)
