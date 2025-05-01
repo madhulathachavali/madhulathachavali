@@ -2,13 +2,10 @@
 
 Interested in analyzing healthcare, clinical, and biological data to uncover meaningful insights.
 
-- **Tools**: SQL, BigQuery, PostgreSQL, Python, Linux, Tableau
+- **Tools**: SQL, BigQuery, Python, Linux, Tableau
 - **Clinical Data**: **MIMIC (electronic health record database)** data mining and analysis 
-- **Bioinformatics:** Nextflow, Scanpy (Python) SAMtools, BWA, BEDTools (Command Line)
 
 ## 📈 GitHub Projects
-- [E.coli Variant Analysis using Nextflow](https://github.com/madhulathachavali/E.coli-Genomic-Variant-Analysis)
-- [Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States](https://github.com/madhulathachavali/Differential-Gene-Expression-and-Pseudotime-Analysis-of-T-Cell-States)
 - [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
 - [Pharmacodynamic Analysis of Dose-Response Using the Emax Model](https://github.com/madhulathachavali/Pharmacodynamic-Analysis-of-Dose-Response-Using-the-Emax-Model)
 - [Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features](https://github.com/madhulathachavali/Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features)
