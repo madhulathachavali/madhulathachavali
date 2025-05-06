@@ -1,23 +1,48 @@
-# Hello, I'm Madhu Chavali 👋
+# 👋 Hi, I'm Madhu Chavali
 
-Interested in analyzing healthcare, clinical, and biological data to uncover meaningful insights.
+**Healthcare & Clinical Data Analyst | SQL • Python • BigQuery • Tableau | MIMIC | EHR | Predictive Modeling**
 
-- **Tools**: SQL, BigQuery, Python, Linux, Tableau
-- **Clinical Data**: **MIMIC (electronic health record database)** data mining and analysis 
+---
 
-## 📈 GitHub Projects
-- [Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis](https://github.com/madhulathachavali/Effectiveness-of-Drug-Treatments-on-Tumor-Growth)
-- [Pharmacodynamic Analysis of Dose-Response Using the Emax Model](https://github.com/madhulathachavali/Pharmacodynamic-Analysis-of-Dose-Response-Using-the-Emax-Model)
-- [Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features](https://github.com/madhulathachavali/Predicting-Thyroid-Cancer-Recurrence-Using-Clinicopathologic-Features)
-- [Predicting Drug Prescription Based on Health Metrics](https://github.com/madhulathachavali/Drug-prescription-prediction)
-- [Vaccine Preventable Diseases Trends in California 2024](https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year)
-- [Migraine Attack Data Analysis](https://github.com/madhulathachavali/Migraine-Attack-Data-Analyses-using-SAS)
-- [Clinical Data Analysis](https://github.com/madhulathachavali/Clinical-lab-data-analysis-using-SAS)
-- [Personal Loan Prediction](https://github.com/madhulathachavali/Personal-loan-prediction)
-- [Alameda County Emergency Visits Analysis 2024](https://github.com/madhulathachavali/Emergency-Department-Burden-Dataset)
-- [Pima County Diabetes Prediction](https://github.com/madhulathachavali/Pima-Indian-Diabetes-Analysis)
-- [Breast Cancer Data Analysis](https://github.com/madhulathachavali/Breast-Cancer-Data-Analysis)
+## 🧠 Turning clinical data into actionable insights for better patient outcomes.
 
-## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/madhu-chavali/)
-- [Email](mailto:madhuchavali6@gmail.com)
+---
+
+## 🔬 Featured Projects
+
+* 🎯 **[ICU Mortality Prediction (XAI, SHAP, XGBoost)](https://github.com/madhulathachavali/mimic_iii_explainable-ai)**
+  Built an ICU mortality risk prediction model using XGBoost and SHAP for explainability, supporting clinician decision-making.
+
+* 📊 **[MIMIC-IV Survival Analysis (Kaplan-Meier, CoxPH)](https://github.com/madhulathachavali/MIMIC_IV_Survival-Analysis)**
+  Explored ICU patient survival trends using time-to-event models, identifying key risk factors affecting outcomes.
+
+* 🔁 **[MIMIC-III Readmission Risk Modeling](https://github.com/madhulathachavali/MIMIC-III-Re-admission-risk)**
+  Developed a logistic regression model and readmission risk score using EHR data.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Languages**: Python, SQL, SAS
+* **Data Platforms**: BigQuery, Tableau
+* **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, Lifelines, SHAP
+* **Other**: Git, Jupyter, Linux, Data Wrangling, EDA, Feature Engineering
+
+---
+
+## 👩‍⚕️ About Me
+
+I'm a data analyst specializing in healthcare and clinical data. I love identifying patterns, building predictive models, and delivering insights that can guide real-world decision-making in hospitals, research, and patient care.
+
+Currently upskilling and contributing to open projects while I search for my next opportunity.
+
+---
+
+## 📬 Let’s Connect
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/madhu-chavali/)
+* 📧 Email: *\[madhuchavali6@gmail.com]*
+* 📁 [Tableau Public Portfolio](https://public.tableau.com/app/profile/madhu.chavali2213)
+
+---
+
