@@ -12,15 +12,12 @@
 
 * 🎯 **[ICU Mortality Prediction (XAI, SHAP, XGBoost)](https://github.com/madhulathachavali/mimic_iii_explainable-ai)**
   Built an ICU mortality risk prediction model using XGBoost and SHAP for explainability, supporting clinician decision-making.
-
-* 📊 **[MIMIC-IV Survival Analysis (Kaplan-Meier, CoxPH)](https://github.com/madhulathachavali/MIMIC_IV_Survival-Analysis)**
-  Explored ICU patient survival trends using time-to-event models, identifying key risk factors affecting outcomes.
-
-* 🔁 **[MIMIC-III Readmission Risk Modeling](https://github.com/madhulathachavali/MIMIC-III-Re-admission-risk)**
-  Developed a logistic regression model and readmission risk score using EHR data.
   
 * 📊 **[HEDIS-Quality-Improvement-Asthma-ED-Utilization-Analysis](https://github.com/madhulathachavali/HEDIS-Quality-Improvement-Asthma-ED-Utilization-Analysis)**
   Analyzed ED utilization patterns for asthma patients using MIMIC-IV data
+  
+* 📊 **[MIMIC-IV Survival Analysis (Kaplan-Meier, CoxPH)](https://github.com/madhulathachavali/MIMIC_IV_Survival-Analysis)**
+  Explored ICU patient survival trends using time-to-event models, identifying key risk factors affecting outcomes.
 
 ---
 
