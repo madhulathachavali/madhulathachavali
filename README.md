@@ -42,7 +42,7 @@ Currently upskilling and contributing to open projects while I search for my nex
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/madhu-chavali/)
 * 📧 Email: *\[madhuchavali6@gmail.com]*
-* 📁 [Tableau Public Portfolio](https://public.tableau.com/app/profile/madhu.chavali2213)
+* 📁 [Tableau](https://public.tableau.com/app/profile/madhu.chavali2213)
 
 ---
 
