@@ -18,6 +18,9 @@
 
 * 🔁 **[MIMIC-III Readmission Risk Modeling](https://github.com/madhulathachavali/MIMIC-III-Re-admission-risk)**
   Developed a logistic regression model and readmission risk score using EHR data.
+  
+* 🔁 **[HEDIS-Quality-Improvement-Asthma-ED-Utilization-Analysis](https://github.com/madhulathachavali/HEDIS-Quality-Improvement-Asthma-ED-Utilization-Analysis)**
+  Analyzed ED utilization patterns for asthma patients using MIMIC-III data
 
 ---
 
