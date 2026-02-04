@@ -32,7 +32,7 @@
 
 ## 👩‍⚕️ About Me
 
-I'm a data analyst specializing in healthcare and clinical data. I love identifying patterns, building predictive models, and delivering insights that can guide real-world decision-making in hospitals, research, and patient care.
+I'm a data analyst specializing in Biological and clinical data. 
 
 Currently upskilling and contributing to open projects while I search for my next opportunity.
 
