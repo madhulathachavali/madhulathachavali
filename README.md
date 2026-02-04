@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhu Chavali
 
-**Healthcare & Clinical Data Analyst | SQL • Python • BigQuery • Tableau | MIMIC | EHR | Predictive Modeling**
+**Biological & Clinical Data Analyst | SQL • Python • BigQuery • Tableau | MIMIC | EHR | Predictive Modeling**
 
 ---
 
