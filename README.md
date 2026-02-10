@@ -4,10 +4,6 @@
 
 ---
 
-## 🧠 Turning clinical data into actionable insights for better patient outcomes.
-
----
-
 ## 🔬 Featured Projects
 
 * 🎯 **[ICU Mortality Prediction (XAI, SHAP, XGBoost)](https://github.com/madhulathachavali/mimic_iii_explainable-ai)**
